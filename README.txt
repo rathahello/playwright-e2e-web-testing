@@ -19,7 +19,7 @@ playwright-e2e/
 │   └── login.spec.ts            # Test specifications (e.g., login flow)
 │
 ├── fixtures/
-│   └── credentials.json         # Test user credentials
+│   └── domain.json              # Test domain & credentials config
 │
 ├── supports/
 │   └── pageObjects/
